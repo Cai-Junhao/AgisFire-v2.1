@@ -13,8 +13,8 @@
 ## 安装说明
 1. 克隆项目到本地
 ```bash
-git clone [项目地址]
-cd streamlit-web-fire_detection-new
+git clone https://github.com/Cai-Junhao/AgisFire-v2.1.git
+cd AgisFire-v2.1
 ```
 
 2. 安装依赖
