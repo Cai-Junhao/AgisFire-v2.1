@@ -13,8 +13,8 @@
 ## 安装说明
 1. 克隆项目到本地
 ```bash
-git clone [项目地址]
-cd streamlit-web-fire_detection-new
+git clone https://github.com/Cai-Junhao/AgisFire-v2.1.git
+cd AgisFire-v2.1
 ```
 
 2. 安装依赖
@@ -40,7 +40,7 @@ streamlit run streamlit/login.py
 
 ## 项目结构
 ```
-streamlit-web-fire_detection-new/
+AgisFire-v2.1/
 ├── streamlit/                # 主项目目录
 │   ├── config.yaml          # 配置文件
 │   ├── login.py            # 登录入口
@@ -78,7 +78,7 @@ streamlit-web-fire_detection-new/
 ## 联系方式
 如有问题或建议，请通过以下方式联系：
 - 提交Issue
-- 发送邮件至[您的邮箱]
+- 发送邮件至[17336111002@163.com]
 
 ## 致谢
 感谢所有为本项目做出贡献的开发者和用户。
